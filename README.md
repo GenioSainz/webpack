@@ -14,4 +14,4 @@ npm install
 ```
 npm run build
 ```
-$$ Window \hspace{1ex} Length = 0.05 \% \rightarrow \overline{|GPS-Filtered|} = 0.271m $$
+$$ Window \hspace{1ex} Length = 0.05 \% \rightarrow\ \overline{|GPS-Filtered|} = 0.271m $$
